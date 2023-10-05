@@ -49,6 +49,8 @@ Decentralize Portfolio is built using the following technologies:
  - [Solidity](https://docs.soliditylang.org/en/v0.8.21/)
  - [Ethereum](https://ethereum.org/en/learn/)
  - [Remix IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js)
+ - [Pinata](https://www.pinata.cloud/)
+   
 
 
 
