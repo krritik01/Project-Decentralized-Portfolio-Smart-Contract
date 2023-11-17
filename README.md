@@ -2,7 +2,7 @@
 
 ![Screenshot (13)](https://github.com/krritik01/Project-Decentralized-Portfolio-Smart-Contract/assets/98963769/f59d24ea-8470-46ba-9eb6-5b486c9a86e7)
 
-This smart contract, named "Portfolio," is designed to help individuals create and manage their personal portfolios on the Ethereum blockchain. It allows users to record and display information about their projects, education, and work experience.
+This smart contract is designed to help individuals create and manage their personal portfolios on the Ethereum blockchain. It allows users to record and display information about their projects, education, and work experience.
 
 ## ★ Features
 
