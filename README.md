@@ -56,6 +56,4 @@ Decentralize Portfolio is built using the following technologies:
 
 
 
-## License
-This code is open-source and available under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details
 
