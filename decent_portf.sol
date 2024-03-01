@@ -5,7 +5,6 @@ pragma solidity ^0.8.23;
 contract Portfolio{
 
 
-// Resume link - https://drive.google.com/file/d/19YoeTgdLBydaepXqZRQf7a_t7i_cpqvF/view?usp=drivesdk
 // Nike Store live-  https://krritik01.github.io/Project-Nike_Store/
 // Voting Smart Contract - https://github.com/krritik01/Project-Voting-System-using-Solidity.git
 // Ethereum E-commerce Smart Contract - https://github.com/krritik01/Project-E-commerce-Smart-Contract.git
